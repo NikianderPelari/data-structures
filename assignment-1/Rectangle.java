@@ -1,7 +1,6 @@
 /*
-// 3134 HW1 Problem1
-// Rectangle.java
-// Implementation of Rectangle
+* Name:           Nikiander Pelari 
+* Info:           Implementation of Rectangle
 */
 
 public class Rectangle implements Comparable<Rectangle> {
