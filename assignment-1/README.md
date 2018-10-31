@@ -4,7 +4,7 @@ Running Programs -        filename.java
 
 
 
-Rectangle.java - /n
+Rectangle.java - 
 Defines a rectangle class
 
 Problem1.java - 
