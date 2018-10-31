@@ -1,6 +1,6 @@
 /*
 * Name:  Nikiander Pelari 
-* Info:  Implements two Stacka using one Array
+* Info:  Implements two Stacks using one Array
 */
 
 public class TwoStacks<T> {
