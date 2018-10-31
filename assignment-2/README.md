@@ -8,7 +8,7 @@ Defines a stack class using Linkedlists
 
 SymbolBalance.java - 
 Takes in a java file and checks to make sure all { }'s, ( )'s, [ ]'s, " "'s, and /* */'s are properly balanced. It ignores literal strings
-and comment blocks. It does not check for single line comments starting with //. To run command execute SymbolBalance.java Test.java.
+and comment blocks. It does not check for single line comments starting with //. To run command execute SymbolBalance.java Test1.java.
 
 Test1.java - 
 File to test operation of SymbolBalance.java.
