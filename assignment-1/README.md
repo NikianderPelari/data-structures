@@ -11,7 +11,6 @@ Main method creates an array of rectangles and finds the largest rectangle based
 
 
 Problem2.java-
-
 Implements a recursive binarySearch method which will find a rectangle of particular perimeter.
 Main method creates an array of rectangles and tries to find a specific rectangle.
 
